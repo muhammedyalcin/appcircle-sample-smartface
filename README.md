@@ -29,6 +29,7 @@ Developing native apps for iOS and Android is as easy as a few lines of
 JavaScript code.
 
 Start coding right away and to view your app instantly on a real device,
+
 just click the Run on Device button and follow the instructions.
 
 You can also update your native apps remotely and manage their lifecycle
